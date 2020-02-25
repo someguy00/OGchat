@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "486846492046",
+    "firebase_url": "https://androidchatapp-ef804.firebaseio.com",
+    "project_id": "androidchatapp-ef804",
+    "storage_bucket": "androidchatapp-ef804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486846492046:android:79e1157a331c1dd41108df",
+        "android_client_info": {
+          "package_name": "com.androidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486846492046-fvmbeq89ej22j0368mkdr3c0e0eht61v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEna0RvAxaZoWynsT4k1AMX7KK9DVUWIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486846492046-fvmbeq89ej22j0368mkdr3c0e0eht61v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486846492046:android:8ee7b369cd68dbbe1108df",
+        "android_client_info": {
+          "package_name": "com.androidchatapp.ogchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486846492046-m1kgrt82159vs22aoudhhmlb7dim7bo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidchatapp.ogchat",
+            "certificate_hash": "fc6560bf7c6bdc52f204d8b3b77ac850ef807e28"
+          }
+        },
+        {
+          "client_id": "486846492046-1ucm9kvbhg0fu5n3i1oood64tp912i5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidchatapp.ogchat",
+            "certificate_hash": "ea1c73e34d2be50ffd132fa20ce0a6bb18698936"
+          }
+        },
+        {
+          "client_id": "486846492046-fvmbeq89ej22j0368mkdr3c0e0eht61v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEna0RvAxaZoWynsT4k1AMX7KK9DVUWIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486846492046-fvmbeq89ej22j0368mkdr3c0e0eht61v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486846492046:android:109cacb29be00de61108df",
+        "android_client_info": {
+          "package_name": "com.greatone.ogchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486846492046-um3g8uu5vmt12lf5snlk1e7qgdlglle0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greatone.ogchat",
+            "certificate_hash": "fc6560bf7c6bdc52f204d8b3b77ac850ef807e28"
+          }
+        },
+        {
+          "client_id": "486846492046-fvmbeq89ej22j0368mkdr3c0e0eht61v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEna0RvAxaZoWynsT4k1AMX7KK9DVUWIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486846492046-fvmbeq89ej22j0368mkdr3c0e0eht61v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
